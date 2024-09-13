@@ -1,2 +1,3 @@
 # Practice-codes
-basic code practice
+Basic code practice
+Author- Punith
